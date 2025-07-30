@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **learning GIS developing basics.**
 
-- 📫 How to reach me **savindurasanjana@gmail.com**
+- 📫 How to reach me **officialsavindu@gmail.com**
 
 - ⚡ Fun fact **Guess what? With AI advancements, the days of hardcore coding marathons might be over! Tools like GitHub Copilot, powered by OpenAI's Codex, can now write and debug code for you. It's like having an all-knowing co-pilot who churns out code, fixes bugs, and even suggests improvements—all in real-time. The future of coding is here, and it's powered by AI! 🚀✨**
 
